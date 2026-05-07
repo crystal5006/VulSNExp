@@ -129,4 +129,4 @@ See `scripts.sh` for the full experiment commands.
 
 # Notes
 
-Experiments were run on a server with 2 Intel Xeon Gold 5117 CPUs and 4 Tesla V100 GPUs. For best reproducibility, keep the same random seeds, PyTorch version, and data files.
+Experiments were run on  a Linux-based server equipped with two 2.1GHz Intel Xeon Silver-4310 CPU, 128GB of RAM, and dual NVIDIA RTX 3090 GPUs.
