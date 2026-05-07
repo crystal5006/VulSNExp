@@ -2,7 +2,7 @@
 
 **Framework**
 
-![Framework diagram](./framework.pdf)
+![Framework diagram](./framework.png)
 
 VulSNExp introduces a structural optimization framework for vulnerability detection, which learns a differentiable edge mask to enforce factual sufficiency and counterfactual necessity, thereby extracting a compact subgraph that preserves the model’s prediction when retained and alters it when removed.See the framework figure above.
 
